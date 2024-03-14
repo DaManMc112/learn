@@ -90,7 +90,7 @@ body {
 
 main {
   flex-direction: row;
-  background-color: FF7AB8;
+  background-color: #FF7AB8;
   border: none;
   color: red;
   padding: 15px 32px;
