@@ -48,7 +48,7 @@ h1 {
 }
 
 body {
-  background-color: blue;
+  background-color: #2a7385;
   color: white;
   font-family: Arial, sans-serif;
   font-size: 16px;
@@ -86,4 +86,19 @@ body {
 
 .spotify:active {
   background-color: hsl(0, 100%, 70%);
+}
+
+#More {
+  background-color: FF7AB8;
+  border: none;
+  color: red;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 15px;
+  margin: right 1000px;
+  margin-top: 20px;
 }
