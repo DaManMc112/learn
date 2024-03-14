@@ -60,3 +60,30 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+.spotify {
+  width: 250px;
+  height: 30px;
+  margin-top: 20px;
+  font-size: large;
+  font-weight: bold;
+  font-style: italic;
+  background-color: hsl(0, 100%, 50%);
+  padding: 5px;
+  border-radius: 54px;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: left;
+  transition: background-color 0.3s ease;
+  margin: right 1000px;
+  margin-top: 1px;
+}
+
+.spotify:hover {
+  background-color: hsl(0, 100%, 60%);
+}
+
+.spotify:active {
+  background-color: hsl(0, 100%, 70%);
+}
