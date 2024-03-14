@@ -88,7 +88,8 @@ body {
   background-color: hsl(0, 100%, 70%);
 }
 
-#More {
+main {
+  flex-direction: row;
   background-color: FF7AB8;
   border: none;
   color: red;
